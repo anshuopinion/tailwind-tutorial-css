@@ -21,6 +21,7 @@ Lesson:-
 17. Transitions
 18. Animations
 19. Gradient Colors
+20. Reduce Tailwind Css File - Pruge
 
 
 
