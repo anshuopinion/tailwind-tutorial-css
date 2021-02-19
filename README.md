@@ -4,7 +4,7 @@ Lesson:-
 
 1. Intro & Setup
 2. Html Templete
-3. Fonts & Colors
+3. Typography & Colors
 4. Margin, Padding & Borders
 5. Tailwind Config File
 6. Custom Fonts 
